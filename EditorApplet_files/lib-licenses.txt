@@ -1,6 +1,6 @@
 JCP contains the following libraries. Please read this for comments on copyright etc.
 
-Chemistry Development Kit, master version as of Sat Sep 22 10:50:11 CEST 2012 (http://cdk.sf.net)
+Chemistry Development Kit, master version as of Wed Oct 17 08:32:27 CEST 2012 (http://cdk.sf.net)
 Copyright 1997-2009 The CDK Development Team
 License: LGPL v2 (http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 Download: https://sourceforge.net/projects/cdk/files/
